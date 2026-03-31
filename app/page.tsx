@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from 'react';
 import { Terminal, Globe, Upload, Send, Cpu } from 'lucide-react';
 
